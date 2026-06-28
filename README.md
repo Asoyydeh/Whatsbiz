@@ -92,6 +92,6 @@ AI kami tidak hanya cerdas menjawab pertanyaan berdasarkan katalog, tetapi juga 
 ---
 
 <div align="center">
-  Dibuat dengan ❤️ untuk kemajuan UMKM.
+  Dibuat oleh Dev : Risky Hariadi dengan ❤️ untuk kemajuan UMKM.
 </div>
 
