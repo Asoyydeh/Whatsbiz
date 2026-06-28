@@ -44,14 +44,14 @@ Berikut adalah sekilas tampilan dari platform **WhatsBiz**:
 
 ### 3. Monitor Chat 
 <div align="center">
-  <img src="assets/monitorchat.png" alt="Monitor Chat" width="400"/>
+  <img src="assets/monitorchat.png" alt="Monitor Chat" width="800"/>
 </div>
 <br/>
 
 ### 4. Demo Kemampuan AI 
 AI kami tidak hanya cerdas menjawab pertanyaan berdasarkan katalog, tetapi juga bisa memvisualisasikan produk (contoh: kaos polos) langsung di WhatsApp pengguna.
 <div align="center">
-  <img src="assets/Responagent.png" alt="Demo Chat WhatsApp" width="350"/>
+  <img src="assets/Responagent.png" alt="Demo Chat WhatsApp" width="800"/>
 </div>
 
 ---
