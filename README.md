@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="assets/logo.png" alt="WhatsBiz Agent Logo" width="200"/>
   <h1>WhatsBiz Agent (SaaS CRM)</h1>
   <p><strong>Platform CRM WhatsApp Pintar dengan Multi-AI Agent & Image Generator untuk UMKM</strong></p>
@@ -22,11 +22,36 @@ Tidak hanya membalas teks, AI kami dapat membagikan **Katalog Produk** secara ak
 
 ---
 
-## 📸 Dokumentasi (Screenshot)
+## 📸 Dokumentasi & Antarmuka Aplikasi
 
-### Demo Chat AI & Image Generation
-Berikut adalah contoh saat AI melayani pelanggan, memberikan detail produk, dan mengenerate foto visualisasi produk secara otomatis di WhatsApp:
+Berikut adalah sekilas tampilan dari platform **WhatsBiz**:
 
+### 1. Halaman Login & Dashboard Utama
+<div align="center">
+  <img src="assets/Login.png" alt="Login Page" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/dashboard.png" alt="Dashboard Utama" width="400"/>
+</div>
+<br/>
+
+### 2. Manajemen Kontak & Menghubungkan WhatsApp
+<div align="center">
+  <img src="assets/daftarkontakcrm.png" alt="Daftar Kontak CRM" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Hubungkan.png" alt="Menghubungkan WhatsApp" width="400"/>
+</div>
+<br/>
+
+### 3. Monitor Chat & Respons Agent Cerdas
+<div align="center">
+  <img src="assets/monitorchat.png" alt="Monitor Chat" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/Responagent.png" alt="Respons Agent" width="400"/>
+</div>
+<br/>
+
+### 4. Demo Kemampuan AI (Chat & Image Generation)
+AI kami tidak hanya cerdas menjawab pertanyaan berdasarkan katalog, tetapi juga bisa memvisualisasikan produk (contoh: kaos polos) langsung di WhatsApp pengguna.
 <div align="center">
   <img src="assets/demo_chat.png" alt="Demo Chat WhatsApp" width="350"/>
 </div>
