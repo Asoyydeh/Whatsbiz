@@ -42,11 +42,9 @@ Berikut adalah sekilas tampilan dari platform **WhatsBiz**:
 </div>
 <br/>
 
-### 3. Monitor Chat & Respons Agent Cerdas
+### 3. Monitor Chat 
 <div align="center">
   <img src="assets/monitorchat.png" alt="Monitor Chat" width="400"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/Responagent.png" alt="Respons Agent" width="400"/>
 </div>
 <br/>
 
