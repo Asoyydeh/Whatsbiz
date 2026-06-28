@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="docs/assets/logo.png" alt="WhatsBiz Agent Logo" width="200"/>
+  <img src="assets/logo.png" alt="WhatsBiz Agent Logo" width="200"/>
   <h1>WhatsBiz Agent (SaaS CRM)</h1>
   <p><strong>Platform CRM WhatsApp Pintar dengan Multi-AI Agent & Image Generator untuk UMKM</strong></p>
 </div>
