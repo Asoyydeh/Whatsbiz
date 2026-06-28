@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ikky\\.gradle\\daemon\\8.4\\com.umkm.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ikky\\.gradle\\daemon\\8.4\\com.umkm.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.umkm.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.umkm.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.umkm.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.umkm.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

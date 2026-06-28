@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+:root {
+  --background: 220 30% 6%; /* #0B0F14 */
+  --foreground: 220 10% 95%; /* #F3F4F6 */
+  
+  --card: 220 25% 10%; /* #111827 */
+  --card-foreground: 220 10% 95%;
+  
+  --popover: 220 25% 10%;
+  --popover-foreground: 220 10% 95%;
+  
+  --primary: 162 84% 39%; /* Emerald 500: #10B981 */
+  --primary-foreground: 220 10% 98%;
+  
+  --secondary: 217 91% 60%; /* Blue 500: #3B82F6 */
+  --secondary-foreground: 220 10% 98%;
+  
+  --muted: 220 20% 18%; /* Gray 800 */
+  --muted-foreground: 220 10% 65%; /* Gray 400 */
+  
+  --accent: 220 20% 18%;
+  --accent-foreground: 162 84% 39%;
+  
+  --destructive: 0 84% 60%; /* Red 500: #EF4444 */
+  --destructive-foreground: 220 10% 98%;
+  
+  --border: 220 20% 20%;
+  --input: 220 20% 15%;
+  --ring: 162 84% 39%;
+
+  --radius: 10px;
+}
+
+@theme {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+
+  --font-sans: var(--font-outfit), var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  --font-mono: var(--font-geist-mono), Courier, monospace;
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* WhatsApp message bubble custom styles */
+.message-bubble-in {
+  background: #1f2c34;
+  color: #e9edef;
+  border-radius: 0px 8px 8px 8px;
+}
+
+.message-bubble-out {
+  background: #005c4b;
+  color: #e9edef;
+  border-radius: 8px 0px 8px 8px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  overflow-x: hidden;
+}
