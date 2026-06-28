@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "WhatsBiz CRM - WhatsApp Omnichannel & Order Management",
   description: "Platform SaaS CRM dan WhatsApp Omnichannel khusus UMKM Indonesia untuk meningkatkan konversi dan retensi pelanggan.",
   other: {
-    "dicoding:email": "igstore@gmail.com",
+    "dicoding:email": "kamidian@gmail.com",
   },
 };
 
