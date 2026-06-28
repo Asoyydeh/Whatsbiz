@@ -50,10 +50,10 @@ Berikut adalah sekilas tampilan dari platform **WhatsBiz**:
 </div>
 <br/>
 
-### 4. Demo Kemampuan AI (Chat & Image Generation)
+### 4. Demo Kemampuan AI 
 AI kami tidak hanya cerdas menjawab pertanyaan berdasarkan katalog, tetapi juga bisa memvisualisasikan produk (contoh: kaos polos) langsung di WhatsApp pengguna.
 <div align="center">
-  <img src="assets/demo_chat.png" alt="Demo Chat WhatsApp" width="350"/>
+  <img src="assets/Responagent.png" alt="Demo Chat WhatsApp" width="350"/>
 </div>
 
 ---
