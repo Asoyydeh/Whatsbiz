@@ -28,7 +28,7 @@ Tidak hanya membalas teks, AI kami dapat membagikan **Katalog Produk** secara ak
 Berikut adalah contoh saat AI melayani pelanggan, memberikan detail produk, dan mengenerate foto visualisasi produk secara otomatis di WhatsApp:
 
 <div align="center">
-  <img src="docs/assets/demo_chat.png" alt="Demo Chat WhatsApp" width="350"/>
+  <img src="assets/demo_chat.png" alt="Demo Chat WhatsApp" width="350"/>
 </div>
 
 ---
